@@ -1,12 +1,9 @@
 <h1> Hi guys, I'm Jaydon! 😃 <img align="right" width="200dp" height="180" src="https://user-images.githubusercontent.com/96518885/166162989-5e806038-3a39-498e-adc4-5863988a047d.jpg" /> </h1>
 
-:kr:
-:canada:
-
 <div>
 <p> 
 <h3>
-<em>I am Jaydon Lee, Fullstack developer from  Korea, currently living in :canada: Vancouver, Canada.</em>
+<em>I am Jaydon Lee, Fullstack developer from Korea, currently living in Vancouver, Canada.
 </h3>
 </p>
 </div>
