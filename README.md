@@ -8,6 +8,8 @@
 </p>
 </div>
 
+___
+
 <h2>🔥 Mainly code with...</h2>
 
 🚀 Languages
@@ -18,11 +20,18 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=ffffff)
 
 
-⚙️ Tools 리액트, 뷰, 노드, NPM, 깃
+⚙️ Tools 
+![REACT](https://img.shields.io/badge/React-00ADD8?style=for-the-badge&logo=react&logoColor=ffffff)
+![NODE.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=ffffff)
+![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 
-OS: Windows, Linux, Android
+🖥️ OS
+![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=ffffff)
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
+![ANDROID](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=ffffff)
 
+___
 
 개발 프로젝트
 
