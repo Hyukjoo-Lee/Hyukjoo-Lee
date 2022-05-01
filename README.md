@@ -11,6 +11,8 @@
 <h2>🔥 Mainly code with...</h2>
 
 🚀 Languages
+
+
 ![JAVA](https://img.shields.io/badge/-JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
@@ -19,12 +21,16 @@
 
 
 ⚙️ Tools 
+
+
 ![REACT](https://img.shields.io/badge/React-00ADD8?style=for-the-badge&logo=react&logoColor=ffffff)
 ![NODE.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=ffffff)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 
 🖥️ OS
+
+
 ![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=ffffff)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
 ![ANDROID](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=ffffff)
