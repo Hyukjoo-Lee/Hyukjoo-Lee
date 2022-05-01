@@ -8,7 +8,6 @@
 </p>
 </div>
 
-___
 
 <h2>🔥 Mainly code with...</h2>
 
