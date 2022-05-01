@@ -3,11 +3,10 @@
 <div>
 <p> 
 <h3>
-<em>I am Jaydon Lee, Fullstack developer from 🇰🇷 Korea, currently living in 🇨🇦 Vancouver, Canada.</em>
+<em>I am Jaydon Lee, Fullstack developer from :kr: Korea, currently living in :canada: Vancouver, Canada.</em>
 </h3>
 </p>
 </div>
-
 
 <h2>🔥 Mainly code with...</h2>
 
