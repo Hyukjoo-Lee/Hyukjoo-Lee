@@ -41,7 +41,7 @@ ___
 
 ___
 
-<h2>📝 Current Knowledge Posts - I love sharing knowledge with people
+<h2>📝 Current Blog Posts
   
 ___
 
