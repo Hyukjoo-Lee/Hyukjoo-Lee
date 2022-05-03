@@ -8,7 +8,7 @@
 </p>
 </div>
 
-<h2>🔥 Mainly code with...</h2>
+<h2>🔥 Mainly Code With...</h2>
 
 🚀 Languages
 
@@ -37,14 +37,22 @@
 
 ___
 
-<h2>🔥 Projects </h2>
+<h2>💡 Projects </h2>
 
 ___
 
-지식 포스트 (새로운걸 나누고 지식을 공유하는 것을 좋아한다)
+<h2>📝 Current Knowledge Posts - I love sharing knowledge with people
+  
+___
 
-인스타 (I am doing the #100DaysOfCode challenge focusing on react and js )
+<h2>🔥 I am doing the #100DaysOfCode challenge focusing on react, js, java </h2>
 
-링크 (LINKED IN, 깃허브)
 
-PINNED(최근 개발중인 프로젝트들 - 비즈퍼트, 다이어리웹, 메타홈, 알고리즘, 안드로이드 스몰 앱들)
+___ 
+
+<h2>📱 How to contact me </h2>
+
+![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=ffffff) hjjaydon.lee@gmail.com
+
+
+![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=ffffff) https://www.linkedin.com/in/hyukjoo-lee/
