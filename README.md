@@ -45,7 +45,7 @@ ___
   
 ___
 
-<h2>🔥 I am doing the #100DaysOfCode challenge focusing on react, js, java </h2>
+<h2>🔥 I am doing the #100DaysOfCode challenge focusing on React, JS , and Java </h2>
 
 
 ___ 
