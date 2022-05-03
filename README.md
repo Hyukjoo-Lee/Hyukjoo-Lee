@@ -1,4 +1,4 @@
-<h1> Hi guys, I'm Jaydon! 😃 <img align="right" width="200dp" height="180" src="https://user-images.githubusercontent.com/96518885/166162989-5e806038-3a39-498e-adc4-5863988a047d.jpg" /> </h1>
+<h1> Hi guys, I'm Jaydon! 😃 <img align="right" width="200dp" height="180" src="https://user-images.githubusercontent.com/96518885/166559160-02781fac-ec20-4b98-aa9f-303ca325c04e.png" /> </h1>
 
 <div>
 <p> 
@@ -37,7 +37,9 @@
 
 ___
 
-개발 프로젝트
+<h2>🔥 Projects </h2>
+
+___
 
 지식 포스트 (새로운걸 나누고 지식을 공유하는 것을 좋아한다)
 
