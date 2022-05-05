@@ -10,8 +10,9 @@
 
 <h2>🔥 Mainly Code With...</h2>
 
-🚀 Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyukjoo-Lee&layout=compact&theme=vue&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
+🚀 Languages
 
 ![JAVA](https://img.shields.io/badge/-JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
@@ -38,21 +39,41 @@
 ___
 
 <h2>💡 Projects </h2>
+<h3> 1. Movie Web Service using ReactJS </h3>
+<h3> 2. Android App Develeopment using Java </h3>
+
+        1. BizXpert
+       
+        2. Small Apps; Google developer Training For Android Java developers
 
 ___
 
-<h2>📝 Current Blog Posts
+
+<h2>📝 Current Blog Posts</h2>
+
+  <h3> 
+    <ul>
+     <li> https://hyukjoo-lee.github.io/javascript/2022/03/28/JavaScript_Basic_React.html </li>
+     <li> https://hyukjoo-lee.github.io/javascript/2022/03/27/JavaScript_MongoDB.html </li>
+   </ul>
+  </h3>  
   
 ___
 
 <h2>🔥 I am doing the #100DaysOfCode challenge focusing on React, JS , and Java </h2>
 
-
+<a href="https://www.instagram.com/jayco_ding/">
+    <img src="http://img.shields.io/badge/-INSTAGRAM-222222?style=flat&logo=Instagram&link=https://www.instagram.com/jayco_ding/" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+  
+  
 ___ 
 
 <h2>📱 How to contact me </h2>
+  
 
 ![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=ffffff) hjjaydon.lee@gmail.com
 
 
-![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=ffffff) https://www.linkedin.com/in/hyukjoo-lee/
+<a href="https://www.linkedin.com/in/hyukjoo-lee/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=ffffff" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
