@@ -40,7 +40,7 @@ ___
 
 <h2>💡 Projects </h2>
 <h3> 1. Movie Web Service using ReactJS </h3>
-<h3> 2. Android App Develeopment using Java </h3>
+<h3> 2. Android App Development using Java </h3>
 
         1. BizXpert
        
