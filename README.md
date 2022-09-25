@@ -39,25 +39,21 @@
 ___
 
 <h2>💡 Projects </h2>
-<h3> 1. Movie Web Service using ReactJS </h3>
-<h3> 2. Android App Development using Java </h3>
 
-        1. BizXpert
-       
-        2. Small Apps; Google developer Training For Android Java developers
+- <a href="https://hyukjoo-lee.github.io/ReactJS_JFLIX/">JFLIX</a> 
+
+- <a href="https://hyukjoo-lee.github.io/ReactJS_coinTracker/">Coin Tracker</a>
 
 ___
 
 
-<h2>📝 Current Blog Posts</h2>
+<h2>📝 Learning </h2>
 
-  <h3> 
-    <ul>
-     <li> https://hyukjoo-lee-github-io.vercel.app/JavaScript_React_Master </li>
-     <li> https://hyukjoo-lee-github-io.vercel.app/Java_Algorithms_prefix </li>
-     <li> https://hyukjoo-lee-github-io.vercel.app/ReactNative_how-does-it-work </li>
-   </ul>
-  </h3>  
+- <a href="https://hyukjoo-lee-github-io.vercel.app/">Learning Record Blog</a>
+
+- <a href="https://github.com/Hyukjoo-Lee/Android_smallApps"> Small Apps; Google developer Training For Android Java developers </a>
+
+
   
 ___
 
