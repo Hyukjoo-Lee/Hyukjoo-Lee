@@ -57,14 +57,6 @@ ___
   
 ___
 
-<h2>🔥 I am doing the #100DaysOfCode challenge focusing on React, JS , and Java </h2>
-
-<a href="https://www.instagram.com/jayco_ding/">
-    <img src="http://img.shields.io/badge/-INSTAGRAM-222222?style=flat&logo=Instagram&link=https://www.instagram.com/jayco_ding/" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-  
-  
-___ 
 
 <h2>📱 How to contact me </h2>
 
